@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izzybogart ~Isabella
 - 👀 I’m interested in software development and learning more everyday
-- 🌱 I’m currently learning Python (I'm about three months in)
+- 🌱 I’m currently learning Python, I have basic knowlege but need some more practice.
 - 📫 How to reach me: EMAIL - izzybogart@gmail.com
 
 <!---
